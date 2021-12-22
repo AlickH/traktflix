@@ -7,78 +7,78 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E089248E2772BFF200482430 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E089248D2772BFF200482430 /* AppDelegate.swift */; };
-		E08924902772BFF200482430 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E089248F2772BFF200482430 /* SceneDelegate.swift */; };
-		E08924932772BFF200482430 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E08924912772BFF200482430 /* LaunchScreen.storyboard */; };
-		E08924962772BFF200482430 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E08924942772BFF200482430 /* Main.storyboard */; };
-		E089249F2772BFF200482430 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E089249E2772BFF200482430 /* AppDelegate.swift */; };
-		E08924A22772BFF200482430 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E08924A02772BFF200482430 /* Main.storyboard */; };
-		E08924AA2772BFF200482430 /* traktflix Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = E08924A92772BFF200482430 /* traktflix Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		E08924B42772BFF200482430 /* traktflix Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = E08924B32772BFF200482430 /* traktflix Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		E08924BA2772BFF200482430 /* Main.html in Resources */ = {isa = PBXBuildFile; fileRef = E089247D2772BFF100482430 /* Main.html */; };
-		E08924BB2772BFF200482430 /* Main.html in Resources */ = {isa = PBXBuildFile; fileRef = E089247D2772BFF100482430 /* Main.html */; };
-		E08924BC2772BFF200482430 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E089247F2772BFF100482430 /* Icon.png */; };
-		E08924BD2772BFF200482430 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E089247F2772BFF100482430 /* Icon.png */; };
-		E08924BE2772BFF200482430 /* Style.css in Resources */ = {isa = PBXBuildFile; fileRef = E08924802772BFF100482430 /* Style.css */; };
-		E08924BF2772BFF200482430 /* Style.css in Resources */ = {isa = PBXBuildFile; fileRef = E08924802772BFF100482430 /* Style.css */; };
-		E08924C02772BFF200482430 /* Script.js in Resources */ = {isa = PBXBuildFile; fileRef = E08924812772BFF100482430 /* Script.js */; };
-		E08924C12772BFF200482430 /* Script.js in Resources */ = {isa = PBXBuildFile; fileRef = E08924812772BFF100482430 /* Script.js */; };
-		E08924C22772BFF200482430 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08924822772BFF100482430 /* ViewController.swift */; };
-		E08924C32772BFF200482430 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08924822772BFF100482430 /* ViewController.swift */; };
-		E08924C42772BFF200482430 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E08924832772BFF200482430 /* Assets.xcassets */; };
-		E08924C52772BFF200482430 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E08924832772BFF200482430 /* Assets.xcassets */; };
-		E08924C62772BFF200482430 /* SafariWebExtensionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08924852772BFF200482430 /* SafariWebExtensionHandler.swift */; };
-		E08924C72772BFF200482430 /* SafariWebExtensionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08924852772BFF200482430 /* SafariWebExtensionHandler.swift */; };
-		E08924DF2772BFF300482430 /* images in Resources */ = {isa = PBXBuildFile; fileRef = E08924D92772BFF300482430 /* images */; };
-		E08924E02772BFF300482430 /* js in Resources */ = {isa = PBXBuildFile; fileRef = E08924DA2772BFF300482430 /* js */; };
-		E08924E12772BFF300482430 /* html in Resources */ = {isa = PBXBuildFile; fileRef = E08924DB2772BFF300482430 /* html */; };
-		E08924E22772BFF300482430 /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = E08924DC2772BFF300482430 /* manifest.json */; };
-		E08924E32772BFF300482430 /* _locales in Resources */ = {isa = PBXBuildFile; fileRef = E08924DD2772BFF300482430 /* _locales */; };
-		E08924E42772BFF300482430 /* fonts in Resources */ = {isa = PBXBuildFile; fileRef = E08924DE2772BFF300482430 /* fonts */; };
-		E08924E52772BFF300482430 /* images in Resources */ = {isa = PBXBuildFile; fileRef = E08924D92772BFF300482430 /* images */; };
-		E08924E62772BFF300482430 /* js in Resources */ = {isa = PBXBuildFile; fileRef = E08924DA2772BFF300482430 /* js */; };
-		E08924E72772BFF300482430 /* html in Resources */ = {isa = PBXBuildFile; fileRef = E08924DB2772BFF300482430 /* html */; };
-		E08924E82772BFF300482430 /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = E08924DC2772BFF300482430 /* manifest.json */; };
-		E08924E92772BFF300482430 /* _locales in Resources */ = {isa = PBXBuildFile; fileRef = E08924DD2772BFF300482430 /* _locales */; };
-		E08924EA2772BFF300482430 /* fonts in Resources */ = {isa = PBXBuildFile; fileRef = E08924DE2772BFF300482430 /* fonts */; };
+		E0AC5B5E2772C66900A1FCFF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0AC5B5D2772C66900A1FCFF /* AppDelegate.swift */; };
+		E0AC5B602772C66900A1FCFF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0AC5B5F2772C66900A1FCFF /* SceneDelegate.swift */; };
+		E0AC5B632772C66900A1FCFF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0AC5B612772C66900A1FCFF /* LaunchScreen.storyboard */; };
+		E0AC5B662772C66900A1FCFF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0AC5B642772C66900A1FCFF /* Main.storyboard */; };
+		E0AC5B6F2772C66900A1FCFF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0AC5B6E2772C66900A1FCFF /* AppDelegate.swift */; };
+		E0AC5B722772C66900A1FCFF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0AC5B702772C66900A1FCFF /* Main.storyboard */; };
+		E0AC5B7A2772C66900A1FCFF /* traktflix Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = E0AC5B792772C66900A1FCFF /* traktflix Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		E0AC5B842772C66900A1FCFF /* traktflix Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = E0AC5B832772C66900A1FCFF /* traktflix Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		E0AC5B8A2772C66900A1FCFF /* Main.html in Resources */ = {isa = PBXBuildFile; fileRef = E0AC5B4D2772C66900A1FCFF /* Main.html */; };
+		E0AC5B8B2772C66900A1FCFF /* Main.html in Resources */ = {isa = PBXBuildFile; fileRef = E0AC5B4D2772C66900A1FCFF /* Main.html */; };
+		E0AC5B8C2772C66900A1FCFF /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E0AC5B4F2772C66900A1FCFF /* Icon.png */; };
+		E0AC5B8D2772C66900A1FCFF /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E0AC5B4F2772C66900A1FCFF /* Icon.png */; };
+		E0AC5B8E2772C66900A1FCFF /* Style.css in Resources */ = {isa = PBXBuildFile; fileRef = E0AC5B502772C66900A1FCFF /* Style.css */; };
+		E0AC5B8F2772C66900A1FCFF /* Style.css in Resources */ = {isa = PBXBuildFile; fileRef = E0AC5B502772C66900A1FCFF /* Style.css */; };
+		E0AC5B902772C66900A1FCFF /* Script.js in Resources */ = {isa = PBXBuildFile; fileRef = E0AC5B512772C66900A1FCFF /* Script.js */; };
+		E0AC5B912772C66900A1FCFF /* Script.js in Resources */ = {isa = PBXBuildFile; fileRef = E0AC5B512772C66900A1FCFF /* Script.js */; };
+		E0AC5B922772C66900A1FCFF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0AC5B522772C66900A1FCFF /* ViewController.swift */; };
+		E0AC5B932772C66900A1FCFF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0AC5B522772C66900A1FCFF /* ViewController.swift */; };
+		E0AC5B942772C66900A1FCFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0AC5B532772C66900A1FCFF /* Assets.xcassets */; };
+		E0AC5B952772C66900A1FCFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0AC5B532772C66900A1FCFF /* Assets.xcassets */; };
+		E0AC5B962772C66900A1FCFF /* SafariWebExtensionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0AC5B552772C66900A1FCFF /* SafariWebExtensionHandler.swift */; };
+		E0AC5B972772C66900A1FCFF /* SafariWebExtensionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0AC5B552772C66900A1FCFF /* SafariWebExtensionHandler.swift */; };
+		E0AC5BAF2772C66900A1FCFF /* images in Resources */ = {isa = PBXBuildFile; fileRef = E0AC5BA92772C66900A1FCFF /* images */; };
+		E0AC5BB02772C66900A1FCFF /* js in Resources */ = {isa = PBXBuildFile; fileRef = E0AC5BAA2772C66900A1FCFF /* js */; };
+		E0AC5BB12772C66900A1FCFF /* html in Resources */ = {isa = PBXBuildFile; fileRef = E0AC5BAB2772C66900A1FCFF /* html */; };
+		E0AC5BB22772C66900A1FCFF /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = E0AC5BAC2772C66900A1FCFF /* manifest.json */; };
+		E0AC5BB32772C66900A1FCFF /* _locales in Resources */ = {isa = PBXBuildFile; fileRef = E0AC5BAD2772C66900A1FCFF /* _locales */; };
+		E0AC5BB42772C66900A1FCFF /* fonts in Resources */ = {isa = PBXBuildFile; fileRef = E0AC5BAE2772C66900A1FCFF /* fonts */; };
+		E0AC5BB52772C66900A1FCFF /* images in Resources */ = {isa = PBXBuildFile; fileRef = E0AC5BA92772C66900A1FCFF /* images */; };
+		E0AC5BB62772C66900A1FCFF /* js in Resources */ = {isa = PBXBuildFile; fileRef = E0AC5BAA2772C66900A1FCFF /* js */; };
+		E0AC5BB72772C66900A1FCFF /* html in Resources */ = {isa = PBXBuildFile; fileRef = E0AC5BAB2772C66900A1FCFF /* html */; };
+		E0AC5BB82772C66900A1FCFF /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = E0AC5BAC2772C66900A1FCFF /* manifest.json */; };
+		E0AC5BB92772C66900A1FCFF /* _locales in Resources */ = {isa = PBXBuildFile; fileRef = E0AC5BAD2772C66900A1FCFF /* _locales */; };
+		E0AC5BBA2772C66900A1FCFF /* fonts in Resources */ = {isa = PBXBuildFile; fileRef = E0AC5BAE2772C66900A1FCFF /* fonts */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		E08924AB2772BFF200482430 /* PBXContainerItemProxy */ = {
+		E0AC5B7B2772C66900A1FCFF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = E08924772772BFF100482430 /* Project object */;
+			containerPortal = E0AC5B472772C66800A1FCFF /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = E08924A82772BFF200482430;
+			remoteGlobalIDString = E0AC5B782772C66900A1FCFF;
 			remoteInfo = "traktflix Extension (iOS)";
 		};
-		E08924B52772BFF200482430 /* PBXContainerItemProxy */ = {
+		E0AC5B852772C66900A1FCFF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = E08924772772BFF100482430 /* Project object */;
+			containerPortal = E0AC5B472772C66800A1FCFF /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = E08924B22772BFF200482430;
+			remoteGlobalIDString = E0AC5B822772C66900A1FCFF;
 			remoteInfo = "traktflix Extension (macOS)";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		E08924CD2772BFF200482430 /* Embed App Extensions */ = {
+		E0AC5B9D2772C66900A1FCFF /* Embed App Extensions */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				E08924AA2772BFF200482430 /* traktflix Extension.appex in Embed App Extensions */,
+				E0AC5B7A2772C66900A1FCFF /* traktflix Extension.appex in Embed App Extensions */,
 			);
 			name = "Embed App Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E08924D42772BFF200482430 /* Embed App Extensions */ = {
+		E0AC5BA42772C66900A1FCFF /* Embed App Extensions */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				E08924B42772BFF200482430 /* traktflix Extension.appex in Embed App Extensions */,
+				E0AC5B842772C66900A1FCFF /* traktflix Extension.appex in Embed App Extensions */,
 			);
 			name = "Embed App Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -86,60 +86,60 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		E089247E2772BFF100482430 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = ../Base.lproj/Main.html; sourceTree = "<group>"; };
-		E089247F2772BFF100482430 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
-		E08924802772BFF100482430 /* Style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = Style.css; sourceTree = "<group>"; };
-		E08924812772BFF100482430 /* Script.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = Script.js; sourceTree = "<group>"; };
-		E08924822772BFF100482430 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		E08924832772BFF200482430 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		E08924852772BFF200482430 /* SafariWebExtensionHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariWebExtensionHandler.swift; sourceTree = "<group>"; };
-		E089248A2772BFF200482430 /* traktflix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = traktflix.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		E089248D2772BFF200482430 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E089248F2772BFF200482430 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		E08924922772BFF200482430 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		E08924952772BFF200482430 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		E08924972772BFF200482430 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E089249C2772BFF200482430 /* traktflix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = traktflix.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		E089249E2772BFF200482430 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E08924A12772BFF200482430 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		E08924A32772BFF200482430 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E08924A42772BFF200482430 /* traktflix.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = traktflix.entitlements; sourceTree = "<group>"; };
-		E08924A92772BFF200482430 /* traktflix Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "traktflix Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E08924AE2772BFF200482430 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E08924B32772BFF200482430 /* traktflix Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "traktflix Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E08924B82772BFF200482430 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E08924B92772BFF200482430 /* traktflix.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = traktflix.entitlements; sourceTree = "<group>"; };
-		E08924D92772BFF300482430 /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; name = images; path = ../../Downloads/chrome/images; sourceTree = "<group>"; };
-		E08924DA2772BFF300482430 /* js */ = {isa = PBXFileReference; lastKnownFileType = folder; name = js; path = ../../Downloads/chrome/js; sourceTree = "<group>"; };
-		E08924DB2772BFF300482430 /* html */ = {isa = PBXFileReference; lastKnownFileType = folder; name = html; path = ../../Downloads/chrome/html; sourceTree = "<group>"; };
-		E08924DC2772BFF300482430 /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = manifest.json; path = ../../Downloads/chrome/manifest.json; sourceTree = "<group>"; };
-		E08924DD2772BFF300482430 /* _locales */ = {isa = PBXFileReference; lastKnownFileType = folder; name = _locales; path = ../../Downloads/chrome/_locales; sourceTree = "<group>"; };
-		E08924DE2772BFF300482430 /* fonts */ = {isa = PBXFileReference; lastKnownFileType = folder; name = fonts; path = ../../Downloads/chrome/fonts; sourceTree = "<group>"; };
+		E0AC5B4E2772C66900A1FCFF /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = ../Base.lproj/Main.html; sourceTree = "<group>"; };
+		E0AC5B4F2772C66900A1FCFF /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		E0AC5B502772C66900A1FCFF /* Style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = Style.css; sourceTree = "<group>"; };
+		E0AC5B512772C66900A1FCFF /* Script.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = Script.js; sourceTree = "<group>"; };
+		E0AC5B522772C66900A1FCFF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E0AC5B532772C66900A1FCFF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E0AC5B552772C66900A1FCFF /* SafariWebExtensionHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariWebExtensionHandler.swift; sourceTree = "<group>"; };
+		E0AC5B5A2772C66900A1FCFF /* traktflix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = traktflix.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E0AC5B5D2772C66900A1FCFF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		E0AC5B5F2772C66900A1FCFF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		E0AC5B622772C66900A1FCFF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		E0AC5B652772C66900A1FCFF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		E0AC5B672772C66900A1FCFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0AC5B6C2772C66900A1FCFF /* traktflix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = traktflix.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E0AC5B6E2772C66900A1FCFF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		E0AC5B712772C66900A1FCFF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		E0AC5B732772C66900A1FCFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0AC5B742772C66900A1FCFF /* traktflix.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = traktflix.entitlements; sourceTree = "<group>"; };
+		E0AC5B792772C66900A1FCFF /* traktflix Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "traktflix Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E0AC5B7E2772C66900A1FCFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0AC5B832772C66900A1FCFF /* traktflix Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "traktflix Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E0AC5B882772C66900A1FCFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0AC5B892772C66900A1FCFF /* traktflix.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = traktflix.entitlements; sourceTree = "<group>"; };
+		E0AC5BA92772C66900A1FCFF /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; name = images; path = ../../chrome/images; sourceTree = "<group>"; };
+		E0AC5BAA2772C66900A1FCFF /* js */ = {isa = PBXFileReference; lastKnownFileType = folder; name = js; path = ../../chrome/js; sourceTree = "<group>"; };
+		E0AC5BAB2772C66900A1FCFF /* html */ = {isa = PBXFileReference; lastKnownFileType = folder; name = html; path = ../../chrome/html; sourceTree = "<group>"; };
+		E0AC5BAC2772C66900A1FCFF /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = manifest.json; path = ../../chrome/manifest.json; sourceTree = "<group>"; };
+		E0AC5BAD2772C66900A1FCFF /* _locales */ = {isa = PBXFileReference; lastKnownFileType = folder; name = _locales; path = ../../chrome/_locales; sourceTree = "<group>"; };
+		E0AC5BAE2772C66900A1FCFF /* fonts */ = {isa = PBXFileReference; lastKnownFileType = folder; name = fonts; path = ../../chrome/fonts; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		E08924872772BFF200482430 /* Frameworks */ = {
+		E0AC5B572772C66900A1FCFF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E08924992772BFF200482430 /* Frameworks */ = {
+		E0AC5B692772C66900A1FCFF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E08924A62772BFF200482430 /* Frameworks */ = {
+		E0AC5B762772C66900A1FCFF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E08924B02772BFF200482430 /* Frameworks */ = {
+		E0AC5B802772C66900A1FCFF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -149,109 +149,109 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		E08924762772BFF100482430 = {
+		E0AC5B462772C66800A1FCFF = {
 			isa = PBXGroup;
 			children = (
-				E089247B2772BFF100482430 /* Shared (App) */,
-				E08924842772BFF200482430 /* Shared (Extension) */,
-				E089248C2772BFF200482430 /* iOS (App) */,
-				E089249D2772BFF200482430 /* macOS (App) */,
-				E08924AD2772BFF200482430 /* iOS (Extension) */,
-				E08924B72772BFF200482430 /* macOS (Extension) */,
-				E089248B2772BFF200482430 /* Products */,
+				E0AC5B4B2772C66900A1FCFF /* Shared (App) */,
+				E0AC5B542772C66900A1FCFF /* Shared (Extension) */,
+				E0AC5B5C2772C66900A1FCFF /* iOS (App) */,
+				E0AC5B6D2772C66900A1FCFF /* macOS (App) */,
+				E0AC5B7D2772C66900A1FCFF /* iOS (Extension) */,
+				E0AC5B872772C66900A1FCFF /* macOS (Extension) */,
+				E0AC5B5B2772C66900A1FCFF /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		E089247B2772BFF100482430 /* Shared (App) */ = {
+		E0AC5B4B2772C66900A1FCFF /* Shared (App) */ = {
 			isa = PBXGroup;
 			children = (
-				E08924822772BFF100482430 /* ViewController.swift */,
-				E08924832772BFF200482430 /* Assets.xcassets */,
-				E089247C2772BFF100482430 /* Resources */,
+				E0AC5B522772C66900A1FCFF /* ViewController.swift */,
+				E0AC5B532772C66900A1FCFF /* Assets.xcassets */,
+				E0AC5B4C2772C66900A1FCFF /* Resources */,
 			);
 			path = "Shared (App)";
 			sourceTree = "<group>";
 		};
-		E089247C2772BFF100482430 /* Resources */ = {
+		E0AC5B4C2772C66900A1FCFF /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				E089247D2772BFF100482430 /* Main.html */,
-				E089247F2772BFF100482430 /* Icon.png */,
-				E08924802772BFF100482430 /* Style.css */,
-				E08924812772BFF100482430 /* Script.js */,
+				E0AC5B4D2772C66900A1FCFF /* Main.html */,
+				E0AC5B4F2772C66900A1FCFF /* Icon.png */,
+				E0AC5B502772C66900A1FCFF /* Style.css */,
+				E0AC5B512772C66900A1FCFF /* Script.js */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
 		};
-		E08924842772BFF200482430 /* Shared (Extension) */ = {
+		E0AC5B542772C66900A1FCFF /* Shared (Extension) */ = {
 			isa = PBXGroup;
 			children = (
-				E08924D82772BFF300482430 /* Resources */,
-				E08924852772BFF200482430 /* SafariWebExtensionHandler.swift */,
+				E0AC5BA82772C66900A1FCFF /* Resources */,
+				E0AC5B552772C66900A1FCFF /* SafariWebExtensionHandler.swift */,
 			);
 			path = "Shared (Extension)";
 			sourceTree = "<group>";
 		};
-		E089248B2772BFF200482430 /* Products */ = {
+		E0AC5B5B2772C66900A1FCFF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E089248A2772BFF200482430 /* traktflix.app */,
-				E089249C2772BFF200482430 /* traktflix.app */,
-				E08924A92772BFF200482430 /* traktflix Extension.appex */,
-				E08924B32772BFF200482430 /* traktflix Extension.appex */,
+				E0AC5B5A2772C66900A1FCFF /* traktflix.app */,
+				E0AC5B6C2772C66900A1FCFF /* traktflix.app */,
+				E0AC5B792772C66900A1FCFF /* traktflix Extension.appex */,
+				E0AC5B832772C66900A1FCFF /* traktflix Extension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E089248C2772BFF200482430 /* iOS (App) */ = {
+		E0AC5B5C2772C66900A1FCFF /* iOS (App) */ = {
 			isa = PBXGroup;
 			children = (
-				E089248D2772BFF200482430 /* AppDelegate.swift */,
-				E089248F2772BFF200482430 /* SceneDelegate.swift */,
-				E08924912772BFF200482430 /* LaunchScreen.storyboard */,
-				E08924942772BFF200482430 /* Main.storyboard */,
-				E08924972772BFF200482430 /* Info.plist */,
+				E0AC5B5D2772C66900A1FCFF /* AppDelegate.swift */,
+				E0AC5B5F2772C66900A1FCFF /* SceneDelegate.swift */,
+				E0AC5B612772C66900A1FCFF /* LaunchScreen.storyboard */,
+				E0AC5B642772C66900A1FCFF /* Main.storyboard */,
+				E0AC5B672772C66900A1FCFF /* Info.plist */,
 			);
 			path = "iOS (App)";
 			sourceTree = "<group>";
 		};
-		E089249D2772BFF200482430 /* macOS (App) */ = {
+		E0AC5B6D2772C66900A1FCFF /* macOS (App) */ = {
 			isa = PBXGroup;
 			children = (
-				E089249E2772BFF200482430 /* AppDelegate.swift */,
-				E08924A02772BFF200482430 /* Main.storyboard */,
-				E08924A32772BFF200482430 /* Info.plist */,
-				E08924A42772BFF200482430 /* traktflix.entitlements */,
+				E0AC5B6E2772C66900A1FCFF /* AppDelegate.swift */,
+				E0AC5B702772C66900A1FCFF /* Main.storyboard */,
+				E0AC5B732772C66900A1FCFF /* Info.plist */,
+				E0AC5B742772C66900A1FCFF /* traktflix.entitlements */,
 			);
 			path = "macOS (App)";
 			sourceTree = "<group>";
 		};
-		E08924AD2772BFF200482430 /* iOS (Extension) */ = {
+		E0AC5B7D2772C66900A1FCFF /* iOS (Extension) */ = {
 			isa = PBXGroup;
 			children = (
-				E08924AE2772BFF200482430 /* Info.plist */,
+				E0AC5B7E2772C66900A1FCFF /* Info.plist */,
 			);
 			path = "iOS (Extension)";
 			sourceTree = "<group>";
 		};
-		E08924B72772BFF200482430 /* macOS (Extension) */ = {
+		E0AC5B872772C66900A1FCFF /* macOS (Extension) */ = {
 			isa = PBXGroup;
 			children = (
-				E08924B82772BFF200482430 /* Info.plist */,
-				E08924B92772BFF200482430 /* traktflix.entitlements */,
+				E0AC5B882772C66900A1FCFF /* Info.plist */,
+				E0AC5B892772C66900A1FCFF /* traktflix.entitlements */,
 			);
 			path = "macOS (Extension)";
 			sourceTree = "<group>";
 		};
-		E08924D82772BFF300482430 /* Resources */ = {
+		E0AC5BA82772C66900A1FCFF /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				E08924D92772BFF300482430 /* images */,
-				E08924DA2772BFF300482430 /* js */,
-				E08924DB2772BFF300482430 /* html */,
-				E08924DC2772BFF300482430 /* manifest.json */,
-				E08924DD2772BFF300482430 /* _locales */,
-				E08924DE2772BFF300482430 /* fonts */,
+				E0AC5BA92772C66900A1FCFF /* images */,
+				E0AC5BAA2772C66900A1FCFF /* js */,
+				E0AC5BAB2772C66900A1FCFF /* html */,
+				E0AC5BAC2772C66900A1FCFF /* manifest.json */,
+				E0AC5BAD2772C66900A1FCFF /* _locales */,
+				E0AC5BAE2772C66900A1FCFF /* fonts */,
 			);
 			name = Resources;
 			path = "Shared (Extension)";
@@ -260,51 +260,51 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E08924892772BFF200482430 /* traktflix (iOS) */ = {
+		E0AC5B592772C66900A1FCFF /* traktflix (iOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E08924CE2772BFF200482430 /* Build configuration list for PBXNativeTarget "traktflix (iOS)" */;
+			buildConfigurationList = E0AC5B9E2772C66900A1FCFF /* Build configuration list for PBXNativeTarget "traktflix (iOS)" */;
 			buildPhases = (
-				E08924862772BFF200482430 /* Sources */,
-				E08924872772BFF200482430 /* Frameworks */,
-				E08924882772BFF200482430 /* Resources */,
-				E08924CD2772BFF200482430 /* Embed App Extensions */,
+				E0AC5B562772C66900A1FCFF /* Sources */,
+				E0AC5B572772C66900A1FCFF /* Frameworks */,
+				E0AC5B582772C66900A1FCFF /* Resources */,
+				E0AC5B9D2772C66900A1FCFF /* Embed App Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				E08924AC2772BFF200482430 /* PBXTargetDependency */,
+				E0AC5B7C2772C66900A1FCFF /* PBXTargetDependency */,
 			);
 			name = "traktflix (iOS)";
 			productName = "traktflix (iOS)";
-			productReference = E089248A2772BFF200482430 /* traktflix.app */;
+			productReference = E0AC5B5A2772C66900A1FCFF /* traktflix.app */;
 			productType = "com.apple.product-type.application";
 		};
-		E089249B2772BFF200482430 /* traktflix (macOS) */ = {
+		E0AC5B6B2772C66900A1FCFF /* traktflix (macOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E08924D52772BFF200482430 /* Build configuration list for PBXNativeTarget "traktflix (macOS)" */;
+			buildConfigurationList = E0AC5BA52772C66900A1FCFF /* Build configuration list for PBXNativeTarget "traktflix (macOS)" */;
 			buildPhases = (
-				E08924982772BFF200482430 /* Sources */,
-				E08924992772BFF200482430 /* Frameworks */,
-				E089249A2772BFF200482430 /* Resources */,
-				E08924D42772BFF200482430 /* Embed App Extensions */,
+				E0AC5B682772C66900A1FCFF /* Sources */,
+				E0AC5B692772C66900A1FCFF /* Frameworks */,
+				E0AC5B6A2772C66900A1FCFF /* Resources */,
+				E0AC5BA42772C66900A1FCFF /* Embed App Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				E08924B62772BFF200482430 /* PBXTargetDependency */,
+				E0AC5B862772C66900A1FCFF /* PBXTargetDependency */,
 			);
 			name = "traktflix (macOS)";
 			productName = "traktflix (macOS)";
-			productReference = E089249C2772BFF200482430 /* traktflix.app */;
+			productReference = E0AC5B6C2772C66900A1FCFF /* traktflix.app */;
 			productType = "com.apple.product-type.application";
 		};
-		E08924A82772BFF200482430 /* traktflix Extension (iOS) */ = {
+		E0AC5B782772C66900A1FCFF /* traktflix Extension (iOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E08924CA2772BFF200482430 /* Build configuration list for PBXNativeTarget "traktflix Extension (iOS)" */;
+			buildConfigurationList = E0AC5B9A2772C66900A1FCFF /* Build configuration list for PBXNativeTarget "traktflix Extension (iOS)" */;
 			buildPhases = (
-				E08924A52772BFF200482430 /* Sources */,
-				E08924A62772BFF200482430 /* Frameworks */,
-				E08924A72772BFF200482430 /* Resources */,
+				E0AC5B752772C66900A1FCFF /* Sources */,
+				E0AC5B762772C66900A1FCFF /* Frameworks */,
+				E0AC5B772772C66900A1FCFF /* Resources */,
 			);
 			buildRules = (
 			);
@@ -312,16 +312,16 @@
 			);
 			name = "traktflix Extension (iOS)";
 			productName = "traktflix Extension (iOS)";
-			productReference = E08924A92772BFF200482430 /* traktflix Extension.appex */;
+			productReference = E0AC5B792772C66900A1FCFF /* traktflix Extension.appex */;
 			productType = "com.apple.product-type.app-extension";
 		};
-		E08924B22772BFF200482430 /* traktflix Extension (macOS) */ = {
+		E0AC5B822772C66900A1FCFF /* traktflix Extension (macOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E08924D12772BFF200482430 /* Build configuration list for PBXNativeTarget "traktflix Extension (macOS)" */;
+			buildConfigurationList = E0AC5BA12772C66900A1FCFF /* Build configuration list for PBXNativeTarget "traktflix Extension (macOS)" */;
 			buildPhases = (
-				E08924AF2772BFF200482430 /* Sources */,
-				E08924B02772BFF200482430 /* Frameworks */,
-				E08924B12772BFF200482430 /* Resources */,
+				E0AC5B7F2772C66900A1FCFF /* Sources */,
+				E0AC5B802772C66900A1FCFF /* Frameworks */,
+				E0AC5B812772C66900A1FCFF /* Resources */,
 			);
 			buildRules = (
 			);
@@ -329,34 +329,34 @@
 			);
 			name = "traktflix Extension (macOS)";
 			productName = "traktflix Extension (macOS)";
-			productReference = E08924B32772BFF200482430 /* traktflix Extension.appex */;
+			productReference = E0AC5B832772C66900A1FCFF /* traktflix Extension.appex */;
 			productType = "com.apple.product-type.app-extension";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		E08924772772BFF100482430 /* Project object */ = {
+		E0AC5B472772C66800A1FCFF /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1320;
 				LastUpgradeCheck = 1320;
 				TargetAttributes = {
-					E08924892772BFF200482430 = {
+					E0AC5B592772C66900A1FCFF = {
 						CreatedOnToolsVersion = 13.2.1;
 					};
-					E089249B2772BFF200482430 = {
+					E0AC5B6B2772C66900A1FCFF = {
 						CreatedOnToolsVersion = 13.2.1;
 					};
-					E08924A82772BFF200482430 = {
+					E0AC5B782772C66900A1FCFF = {
 						CreatedOnToolsVersion = 13.2.1;
 					};
-					E08924B22772BFF200482430 = {
+					E0AC5B822772C66900A1FCFF = {
 						CreatedOnToolsVersion = 13.2.1;
 					};
 				};
 			};
-			buildConfigurationList = E089247A2772BFF100482430 /* Build configuration list for PBXProject "traktflix" */;
+			buildConfigurationList = E0AC5B4A2772C66800A1FCFF /* Build configuration list for PBXProject "traktflix" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -364,155 +364,155 @@
 				en,
 				Base,
 			);
-			mainGroup = E08924762772BFF100482430;
-			productRefGroup = E089248B2772BFF200482430 /* Products */;
+			mainGroup = E0AC5B462772C66800A1FCFF;
+			productRefGroup = E0AC5B5B2772C66900A1FCFF /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E08924892772BFF200482430 /* traktflix (iOS) */,
-				E089249B2772BFF200482430 /* traktflix (macOS) */,
-				E08924A82772BFF200482430 /* traktflix Extension (iOS) */,
-				E08924B22772BFF200482430 /* traktflix Extension (macOS) */,
+				E0AC5B592772C66900A1FCFF /* traktflix (iOS) */,
+				E0AC5B6B2772C66900A1FCFF /* traktflix (macOS) */,
+				E0AC5B782772C66900A1FCFF /* traktflix Extension (iOS) */,
+				E0AC5B822772C66900A1FCFF /* traktflix Extension (macOS) */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		E08924882772BFF200482430 /* Resources */ = {
+		E0AC5B582772C66900A1FCFF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E08924BC2772BFF200482430 /* Icon.png in Resources */,
-				E08924932772BFF200482430 /* LaunchScreen.storyboard in Resources */,
-				E08924BA2772BFF200482430 /* Main.html in Resources */,
-				E08924C02772BFF200482430 /* Script.js in Resources */,
-				E08924C42772BFF200482430 /* Assets.xcassets in Resources */,
-				E08924962772BFF200482430 /* Main.storyboard in Resources */,
-				E08924BE2772BFF200482430 /* Style.css in Resources */,
+				E0AC5B8C2772C66900A1FCFF /* Icon.png in Resources */,
+				E0AC5B632772C66900A1FCFF /* LaunchScreen.storyboard in Resources */,
+				E0AC5B8A2772C66900A1FCFF /* Main.html in Resources */,
+				E0AC5B902772C66900A1FCFF /* Script.js in Resources */,
+				E0AC5B942772C66900A1FCFF /* Assets.xcassets in Resources */,
+				E0AC5B662772C66900A1FCFF /* Main.storyboard in Resources */,
+				E0AC5B8E2772C66900A1FCFF /* Style.css in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E089249A2772BFF200482430 /* Resources */ = {
+		E0AC5B6A2772C66900A1FCFF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E08924BD2772BFF200482430 /* Icon.png in Resources */,
-				E08924BF2772BFF200482430 /* Style.css in Resources */,
-				E08924A22772BFF200482430 /* Main.storyboard in Resources */,
-				E08924C12772BFF200482430 /* Script.js in Resources */,
-				E08924C52772BFF200482430 /* Assets.xcassets in Resources */,
-				E08924BB2772BFF200482430 /* Main.html in Resources */,
+				E0AC5B8D2772C66900A1FCFF /* Icon.png in Resources */,
+				E0AC5B8F2772C66900A1FCFF /* Style.css in Resources */,
+				E0AC5B722772C66900A1FCFF /* Main.storyboard in Resources */,
+				E0AC5B912772C66900A1FCFF /* Script.js in Resources */,
+				E0AC5B952772C66900A1FCFF /* Assets.xcassets in Resources */,
+				E0AC5B8B2772C66900A1FCFF /* Main.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E08924A72772BFF200482430 /* Resources */ = {
+		E0AC5B772772C66900A1FCFF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E08924E82772BFF300482430 /* manifest.json in Resources */,
-				E08924E52772BFF300482430 /* images in Resources */,
-				E08924E72772BFF300482430 /* html in Resources */,
-				E08924EA2772BFF300482430 /* fonts in Resources */,
-				E08924E92772BFF300482430 /* _locales in Resources */,
-				E08924E62772BFF300482430 /* js in Resources */,
+				E0AC5BB82772C66900A1FCFF /* manifest.json in Resources */,
+				E0AC5BB52772C66900A1FCFF /* images in Resources */,
+				E0AC5BB72772C66900A1FCFF /* html in Resources */,
+				E0AC5BBA2772C66900A1FCFF /* fonts in Resources */,
+				E0AC5BB92772C66900A1FCFF /* _locales in Resources */,
+				E0AC5BB62772C66900A1FCFF /* js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E08924B12772BFF200482430 /* Resources */ = {
+		E0AC5B812772C66900A1FCFF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E08924E22772BFF300482430 /* manifest.json in Resources */,
-				E08924DF2772BFF300482430 /* images in Resources */,
-				E08924E12772BFF300482430 /* html in Resources */,
-				E08924E42772BFF300482430 /* fonts in Resources */,
-				E08924E32772BFF300482430 /* _locales in Resources */,
-				E08924E02772BFF300482430 /* js in Resources */,
+				E0AC5BB22772C66900A1FCFF /* manifest.json in Resources */,
+				E0AC5BAF2772C66900A1FCFF /* images in Resources */,
+				E0AC5BB12772C66900A1FCFF /* html in Resources */,
+				E0AC5BB42772C66900A1FCFF /* fonts in Resources */,
+				E0AC5BB32772C66900A1FCFF /* _locales in Resources */,
+				E0AC5BB02772C66900A1FCFF /* js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		E08924862772BFF200482430 /* Sources */ = {
+		E0AC5B562772C66900A1FCFF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E08924C22772BFF200482430 /* ViewController.swift in Sources */,
-				E089248E2772BFF200482430 /* AppDelegate.swift in Sources */,
-				E08924902772BFF200482430 /* SceneDelegate.swift in Sources */,
+				E0AC5B922772C66900A1FCFF /* ViewController.swift in Sources */,
+				E0AC5B5E2772C66900A1FCFF /* AppDelegate.swift in Sources */,
+				E0AC5B602772C66900A1FCFF /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E08924982772BFF200482430 /* Sources */ = {
+		E0AC5B682772C66900A1FCFF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E08924C32772BFF200482430 /* ViewController.swift in Sources */,
-				E089249F2772BFF200482430 /* AppDelegate.swift in Sources */,
+				E0AC5B932772C66900A1FCFF /* ViewController.swift in Sources */,
+				E0AC5B6F2772C66900A1FCFF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E08924A52772BFF200482430 /* Sources */ = {
+		E0AC5B752772C66900A1FCFF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E08924C62772BFF200482430 /* SafariWebExtensionHandler.swift in Sources */,
+				E0AC5B962772C66900A1FCFF /* SafariWebExtensionHandler.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E08924AF2772BFF200482430 /* Sources */ = {
+		E0AC5B7F2772C66900A1FCFF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E08924C72772BFF200482430 /* SafariWebExtensionHandler.swift in Sources */,
+				E0AC5B972772C66900A1FCFF /* SafariWebExtensionHandler.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		E08924AC2772BFF200482430 /* PBXTargetDependency */ = {
+		E0AC5B7C2772C66900A1FCFF /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E08924A82772BFF200482430 /* traktflix Extension (iOS) */;
-			targetProxy = E08924AB2772BFF200482430 /* PBXContainerItemProxy */;
+			target = E0AC5B782772C66900A1FCFF /* traktflix Extension (iOS) */;
+			targetProxy = E0AC5B7B2772C66900A1FCFF /* PBXContainerItemProxy */;
 		};
-		E08924B62772BFF200482430 /* PBXTargetDependency */ = {
+		E0AC5B862772C66900A1FCFF /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E08924B22772BFF200482430 /* traktflix Extension (macOS) */;
-			targetProxy = E08924B52772BFF200482430 /* PBXContainerItemProxy */;
+			target = E0AC5B822772C66900A1FCFF /* traktflix Extension (macOS) */;
+			targetProxy = E0AC5B852772C66900A1FCFF /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		E089247D2772BFF100482430 /* Main.html */ = {
+		E0AC5B4D2772C66900A1FCFF /* Main.html */ = {
 			isa = PBXVariantGroup;
 			children = (
-				E089247E2772BFF100482430 /* Base */,
+				E0AC5B4E2772C66900A1FCFF /* Base */,
 			);
 			name = Main.html;
 			sourceTree = "<group>";
 		};
-		E08924912772BFF200482430 /* LaunchScreen.storyboard */ = {
+		E0AC5B612772C66900A1FCFF /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				E08924922772BFF200482430 /* Base */,
+				E0AC5B622772C66900A1FCFF /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
-		E08924942772BFF200482430 /* Main.storyboard */ = {
+		E0AC5B642772C66900A1FCFF /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				E08924952772BFF200482430 /* Base */,
+				E0AC5B652772C66900A1FCFF /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		E08924A02772BFF200482430 /* Main.storyboard */ = {
+		E0AC5B702772C66900A1FCFF /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				E08924A12772BFF200482430 /* Base */,
+				E0AC5B712772C66900A1FCFF /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -520,7 +520,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		E08924C82772BFF200482430 /* Debug */ = {
+		E0AC5B982772C66900A1FCFF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -579,7 +579,7 @@
 			};
 			name = Debug;
 		};
-		E08924C92772BFF200482430 /* Release */ = {
+		E0AC5B992772C66900A1FCFF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -631,11 +631,12 @@
 			};
 			name = Release;
 		};
-		E08924CB2772BFF200482430 /* Debug */ = {
+		E0AC5B9B2772C66900A1FCFF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = J33CVYBKCZ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "iOS (Extension)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "traktflix Extension";
@@ -661,11 +662,12 @@
 			};
 			name = Debug;
 		};
-		E08924CC2772BFF200482430 /* Release */ = {
+		E0AC5B9C2772C66900A1FCFF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = J33CVYBKCZ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "iOS (Extension)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "traktflix Extension";
@@ -692,7 +694,7 @@
 			};
 			name = Release;
 		};
-		E08924CF2772BFF200482430 /* Debug */ = {
+		E0AC5B9F2772C66900A1FCFF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -730,7 +732,7 @@
 			};
 			name = Debug;
 		};
-		E08924D02772BFF200482430 /* Release */ = {
+		E0AC5BA02772C66900A1FCFF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -769,12 +771,13 @@
 			};
 			name = Release;
 		};
-		E08924D22772BFF200482430 /* Debug */ = {
+		E0AC5BA22772C66900A1FCFF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "macOS (Extension)/traktflix.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = J33CVYBKCZ;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "macOS (Extension)/Info.plist";
@@ -800,12 +803,13 @@
 			};
 			name = Debug;
 		};
-		E08924D32772BFF200482430 /* Release */ = {
+		E0AC5BA32772C66900A1FCFF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "macOS (Extension)/traktflix.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = J33CVYBKCZ;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "macOS (Extension)/Info.plist";
@@ -831,7 +835,7 @@
 			};
 			name = Release;
 		};
-		E08924D62772BFF200482430 /* Debug */ = {
+		E0AC5BA62772C66900A1FCFF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -840,6 +844,7 @@
 				CODE_SIGN_ENTITLEMENTS = "macOS (App)/traktflix.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = J33CVYBKCZ;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "macOS (App)/Info.plist";
@@ -866,7 +871,7 @@
 			};
 			name = Debug;
 		};
-		E08924D72772BFF200482430 /* Release */ = {
+		E0AC5BA72772C66900A1FCFF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -875,6 +880,7 @@
 				CODE_SIGN_ENTITLEMENTS = "macOS (App)/traktflix.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = J33CVYBKCZ;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "macOS (App)/Info.plist";
@@ -904,52 +910,52 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E089247A2772BFF100482430 /* Build configuration list for PBXProject "traktflix" */ = {
+		E0AC5B4A2772C66800A1FCFF /* Build configuration list for PBXProject "traktflix" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E08924C82772BFF200482430 /* Debug */,
-				E08924C92772BFF200482430 /* Release */,
+				E0AC5B982772C66900A1FCFF /* Debug */,
+				E0AC5B992772C66900A1FCFF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E08924CA2772BFF200482430 /* Build configuration list for PBXNativeTarget "traktflix Extension (iOS)" */ = {
+		E0AC5B9A2772C66900A1FCFF /* Build configuration list for PBXNativeTarget "traktflix Extension (iOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E08924CB2772BFF200482430 /* Debug */,
-				E08924CC2772BFF200482430 /* Release */,
+				E0AC5B9B2772C66900A1FCFF /* Debug */,
+				E0AC5B9C2772C66900A1FCFF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E08924CE2772BFF200482430 /* Build configuration list for PBXNativeTarget "traktflix (iOS)" */ = {
+		E0AC5B9E2772C66900A1FCFF /* Build configuration list for PBXNativeTarget "traktflix (iOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E08924CF2772BFF200482430 /* Debug */,
-				E08924D02772BFF200482430 /* Release */,
+				E0AC5B9F2772C66900A1FCFF /* Debug */,
+				E0AC5BA02772C66900A1FCFF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E08924D12772BFF200482430 /* Build configuration list for PBXNativeTarget "traktflix Extension (macOS)" */ = {
+		E0AC5BA12772C66900A1FCFF /* Build configuration list for PBXNativeTarget "traktflix Extension (macOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E08924D22772BFF200482430 /* Debug */,
-				E08924D32772BFF200482430 /* Release */,
+				E0AC5BA22772C66900A1FCFF /* Debug */,
+				E0AC5BA32772C66900A1FCFF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E08924D52772BFF200482430 /* Build configuration list for PBXNativeTarget "traktflix (macOS)" */ = {
+		E0AC5BA52772C66900A1FCFF /* Build configuration list for PBXNativeTarget "traktflix (macOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E08924D62772BFF200482430 /* Debug */,
-				E08924D72772BFF200482430 /* Release */,
+				E0AC5BA62772C66900A1FCFF /* Debug */,
+				E0AC5BA72772C66900A1FCFF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = E08924772772BFF100482430 /* Project object */;
+	rootObject = E0AC5B472772C66800A1FCFF /* Project object */;
 }
